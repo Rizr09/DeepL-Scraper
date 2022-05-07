@@ -1,5 +1,5 @@
 # DeepL-Scraper (Deprecated)
-Made with curiosity by Rizky to learn how to scrape websites with Python, click [here](https://colab.research.google.com/drive/1tr2U70jwDelXvnm4l72XrsXqhJGJDHEE?usp=sharing) to access the notebook.  
+Made with curiosity by Rizky to learn how to scrape websites with Python.
 | Available Languages | Language Code |
 |:-------------------:|:-------------:|
 |      Bulgarian      |       bg      |
